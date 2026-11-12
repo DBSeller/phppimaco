@@ -38,5 +38,6 @@
     "replace": {
         "dbemfica/phppimaco": "self.version",
         "proner/phppimaco": "self.version"
-    }
+    },
+    "version": "1.4.6"
 }
