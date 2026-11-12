@@ -12,6 +12,10 @@
         {
             "name": "Diogo Bemfica",
             "email": "diogo.fragabemfica@gmail.com"
+        },
+        {
+            "name": "Gabriel Morgado",
+            "email": "gabriel.morgado@dbseller.com.br"
         }
     ],
     "autoload": {
